@@ -5,6 +5,10 @@ section　{
   display:block;
 }
 
+img {
+  padding-left: 2em ;
+}
+
 p {
   padding-left: 1em ;
 }
