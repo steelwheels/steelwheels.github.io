@@ -5,6 +5,15 @@ section　{
   display:block;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {　/*「,（カンマ）」で区切って複数のセレクタを指定しています*/
+  border-collapse: collapse;
+  border:1px solid #333;
+}
+
 img {
   padding-left: 2em ;
 }
